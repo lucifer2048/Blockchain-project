@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Navbar() {
   return (
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-success">
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Project App</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
